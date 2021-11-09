@@ -16,5 +16,5 @@ Let me know if you need anything else!
 ## Dashboard 
 
 <p align="center">
-  <img src="PowerBI/Dashboard.pdf"/>
+  <img src="PowerBI/Dashboard.png"/>
 </p>
