@@ -12,3 +12,9 @@ The budget is for 2021 and we usually look 2 years back in time when we do analy
 Let me know if you need anything else!
 
 // Steven
+
+## Dashboard 
+
+<p align="center">
+  <img src="PowerBI/Dashboard.pdf"/>
+</p>
